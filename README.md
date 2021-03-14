@@ -1,6 +1,5 @@
 # Chrome momonton clone
 
 Using JS!
-
-![image](https://user-images.githubusercontent.com/77267404/111069244-80fd0000-850f-11eb-938f-0afde74f6d3a.png)
-![image](https://user-images.githubusercontent.com/77267404/111069258-8fe3b280-850f-11eb-89df-d59ceed451f5.png)
+![image](https://user-images.githubusercontent.com/77267404/111069287-ae49ae00-850f-11eb-9af7-810bdeab128c.png)
+![image](https://user-images.githubusercontent.com/77267404/111069291-b4d82580-850f-11eb-9fcb-173d6732b518.png)
